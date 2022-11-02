@@ -1,7 +1,7 @@
 /***********************************************************************
  *UFA - ESPE
  *Module:  Sobrecarga.cpp
- * Author:  Ronny Ibarra
+ * Author:  Ronny Ibarra, Ricardo Imbaquinga
  * Modified: martes, 1 de noviembre de 2022 17:28:32
  * Purpose: Implementation of the class Sobrecarga
  *Level: level three
