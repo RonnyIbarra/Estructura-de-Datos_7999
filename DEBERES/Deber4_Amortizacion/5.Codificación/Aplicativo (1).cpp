@@ -1,3 +1,13 @@
+/***********************************************************************
+ * UFA - ESPE
+ *Module:  Amortizacion.cpp
+ * Author:  Ronny Ibarra-Jose Imbaquinga
+ * Modified: sábado, 5 de noviembre de 2022 10:24:22
+ * Purpose: Implementation of the class Amortizacion
+ *Level: level three
+ *NRC:799
+ ***********************************************************************/
+ 
 #include <stdlib.h>
 #include <iostream>
 #include <stdio.h>
